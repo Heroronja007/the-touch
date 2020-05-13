@@ -1,2 +1,2 @@
-# the-touch
-touch for the blues
+# p5.play-boilerplate
+Boiler plate for p5.play
